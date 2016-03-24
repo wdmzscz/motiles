@@ -1,0 +1,55 @@
+#logo{
+    position:absolute;
+    width:100px;
+    height:100px;
+    display: inline;
+}
+#gear{
+    position:absolute;
+    top:20px;
+    left:800px;
+    background-image: url("../../images/icons/gear.png");
+    width:46px;
+    height:46px;
+    display:inline;
+}
+#gear:hover{
+    float: right;
+    background-image: url("../../images/icons/gear_h.png");
+    width:46px;
+    height:46px;
+    display:inline;
+}
+.main {
+    margin:0;
+    padding:0;
+    display:block;
+}
+body{
+    margin:0;
+    padding:0;
+
+}
+.content{
+    height: 200px;
+    width: 200px;
+    position:relative;
+    top:225px;
+    float:left;
+
+}
+.row{
+border:3px solid white;
+}
+#adsa{
+    position:absolute;
+    top:2855px;
+}
+.menu{
+    display:none;
+}
+#page1{
+    background-color: #2a6496 ;
+    height:3000px;
+
+}
